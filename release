@@ -1,6 +1,6 @@
 {
   "app":"happ_desktop",
-  "filenum": 35,
+  "filenum": 36,
   "linux": {
     "block": [],
     "beta": {},
@@ -51,18 +51,18 @@
 	  "0.2.6"
     ],
     "beta": {
-      "version": "2.7.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.7.0/setup-Happ.x64.exe",
-      "details": "-Improved server storage to use unique identifiers instead of name-based matching\n-Improved system sleep/wake recovery for VPN connections, subscriptions, and background services",
+      "version": "2.8.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.8.0/setup-Happ.x64.exe",
+      "details": "-Added Per-App Proxy proxy-only mode that routes only the selected apps through the VPN, alongside the existing bypass mode",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
       }
     },
     "stable": {
-      "version": "2.7.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.7.0/setup-Happ.x64.exe",
-      "details": "-Improved server storage to use unique identifiers instead of name-based matching\n-Improved system sleep/wake recovery for VPN connections, subscriptions, and background services",
+      "version": "2.8.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.8.0/setup-Happ.x64.exe",
+      "details": "-Added Per-App Proxy proxy-only mode that routes only the selected apps through the VPN, alongside the existing bypass mode",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
