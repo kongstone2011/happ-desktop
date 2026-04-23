@@ -1,6 +1,6 @@
 {
   "app":"happ_desktop",
-  "filenum": 36,
+  "filenum": 37,
   "linux": {
     "block": [],
     "beta": {},
@@ -51,18 +51,18 @@
 	  "0.2.6"
     ],
     "beta": {
-      "version": "2.8.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.8.0/setup-Happ.x64.exe",
-      "details": "-Added Per-App Proxy proxy-only mode that routes only the selected apps through the VPN, alongside the existing bypass mode",
+      "version": "2.9.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.9.0/setup-Happ.x64.exe",
+      "details": "-Inbound Authorization: Added authorization support for HTTP and SOCKS inbound protocols",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
       }
     },
     "stable": {
-      "version": "2.8.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.8.0/setup-Happ.x64.exe",
-      "details": "-Added Per-App Proxy proxy-only mode that routes only the selected apps through the VPN, alongside the existing bypass mode",
+      "version": "2.9.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.9.0/setup-Happ.x64.exe",
+      "details": "-Inbound Authorization: Added authorization support for HTTP and SOCKS inbound protocols",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
