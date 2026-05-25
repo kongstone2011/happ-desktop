@@ -1,6 +1,6 @@
 {
   "app":"happ_desktop",
-  "filenum": 38,
+  "filenum": 39,
   "linux": {
     "block": [],
     "beta": {},
@@ -51,18 +51,18 @@
 	  "0.2.6"
     ],
     "beta": {
-      "version": "2.14.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.14.0/setup-Happ.x64.exe",
-      "details": "-Update Xray core 26.3.27",
+      "version": "2.16.2",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.16.2/setup-Happ.x64.exe",
+      "details": "-Improved per-app proxy rules\n-Improved Hysteria2 server pings\n-Improved sleep/resume handling so the TUN tunnel",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
       }
     },
     "stable": {
-      "version": "2.14.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.14.0/setup-Happ.x64.exe",
-      "details": "-Update Xray core 26.3.27",
+      "version": "2.16.2",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.16.2/setup-Happ.x64.exe",
+      "details": "-Improved per-app proxy rules\n-Improved Hysteria2 server pings\n-Improved sleep/resume handling so the TUN tunnel",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
